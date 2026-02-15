@@ -22,13 +22,6 @@ post-processing and parameter sweep capabilities.
 
 ---
 
-## Repository Structure
-shell-eco-simulink/
-├─ model/ # Simulink models (.slx)
-├─ params/ # Parameter definition scripts
-├─ analysis/ # Post-processing and sweep tools
-├─ outputs/ # Generated plots and reports
-└─ README.md
 
 ### Requirements
 
